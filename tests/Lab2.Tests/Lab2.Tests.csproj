@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab1.Tests</RootNamespace>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab2.Tests</RootNamespace>
         <IsPackable>false</IsPackable>
         <IsTestProject>true</IsTestProject>
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Lab1\Lab1.csproj"/>
+        <ProjectReference Include="..\..\src\Lab2\Lab2.csproj"/>
     </ItemGroup>
 
     <ItemGroup>
